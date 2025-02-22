@@ -8,7 +8,9 @@ I am also a **cadet at 42KL**, where I tackle **low-level systems programming in
 I love **building scalable, user-centric solutions** and applying **data-driven insights** to real-world problems.
 ***
 
-- 🌱 Currently Learning:  **Building an **IRC server in C**
+- 🌱 Currently Learnings:  
+  - Building an **IRC server in C**
+  - Building **User-centric product for [DTI (SUTD Term 2 Subject)](https://www.sutd.edu.sg/course/03-007-design-thinking-and-innovation)**
 
 - 💼 Looking for : **Fall 2025 Internship (Sep '25 - Dec '25)**
 
