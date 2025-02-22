@@ -14,7 +14,9 @@ I love **building scalable, user-centric solutions** and applying **data-driven 
 
 - 💼 Looking for : **Fall 2025 Internship (Sep '25 - Dec '25)**
 
+<!--
 - 👨‍💻 All of my projects are available at [https://ziqithong.com](https://ziqithong.com)
+-->
 
 - 📫 How to reach me **ziqi.thong@gmail.com**
 
