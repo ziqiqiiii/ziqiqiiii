@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zi Qi</h1>
-<h3 align="center">I’m a tech-driven problem solver passionate about fintech, data science, and product engineering. Currently studying Computer Science and Design at SUTD, I specialize in Fintech, AI, and Data Analytics, with a minor in Design, Technology, and Society (DTS). I am also a cadet at 42KL, where I tackle low-level systems programming in C/C++, focusing on algorithmic problem-solving and project-based learning. I love building scalable, user-centric solutions and applying data-driven insights to real-world problems.</h3>
+<h3>I’m a tech-driven problem solver passionate about fintech, data science, and product engineering. Currently studying Computer Science and Design at SUTD, I specialize in Fintech, AI, and Data Analytics, with a minor in Design, Technology, and Society (DTS). I am also a cadet at 42KL, where I tackle low-level systems programming in C/C++, focusing on algorithmic problem-solving and project-based learning. I love building scalable, user-centric solutions and applying data-driven insights to real-world problems.</h3>
 
 - 🌱 I’m currently learning **about IRC server in C**
 
@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ziqiqiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ziqiqiiii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zi qi thong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zi qi thong" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zi-qi-thong-4172b3243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zi qi thong" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
