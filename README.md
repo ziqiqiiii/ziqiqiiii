@@ -12,7 +12,6 @@ I love **building scalable, user-centric solutions** and applying **data-driven 
   - Building an **IRC server in C**
   - Building **User-centric product for [DTI (SUTD Term 2 Subject)](https://www.sutd.edu.sg/course/03-007-design-thinking-and-innovation)**
 
-- 💼 Looking for : **Fall 2025 Internship (Sep '25 - Dec '25)**
 
 <!--
 - 👨‍💻 All of my projects are available at [https://ziqithong.com](https://ziqithong.com)
