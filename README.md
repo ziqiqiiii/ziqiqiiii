@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zi Qi</h1>
-I’m a tech-driven problem solver passionate about fintech, data science, and product engineering. Currently studying Computer Science and Design at SUTD, I specialize in Fintech, AI, and Data Analytics, with a minor in Design, Technology, and Society (DTS). I am also a cadet at 42KL, where I tackle low-level systems programming in C/C++, focusing on algorithmic problem-solving and project-based learning. I love building scalable, user-centric solutions and applying data-driven insights to real-world problems.
 
-- 🌱 I’m currently learning **about IRC server in C**
+***
+I’m a tech-driven problem solver passionate about **fintech, data science, and product engineering**. Currently studying **Computer Science and Design at SUTD**, I specialize in **Fintech, AI, and Data Analytics**, with a minor in Design, Technology, and Society (DTS).
 
-- 🤝 I’m looking for help with **landing an internship this Fall (Sep'25 - Dec'25)**
+I am also a **cadet at 42KL**, where I tackle **low-level systems programming in C/C++**, focusing on algorithmic problem-solving and project-based learning. 
+
+I love **building scalable, user-centric solutions** and applying **data-driven insights** to real-world problems.
+***
+
+- 🌱 Currently Learning:  **Building an **IRC server in C**
+
+- 💼 Looking for : **Fall 2025 Internship (Sep '25 - Dec '25)**
 
 - 👨‍💻 All of my projects are available at [https://ziqithong.com](https://ziqithong.com)
 
