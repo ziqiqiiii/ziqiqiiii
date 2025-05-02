@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zi Qi</h1>
 
 ***
-I’m a tech-driven problem solver passionate about **fintech, data science, and product engineering**. Currently studying **Computer Science and Design at SUTD**, I specialize in **Fintech, AI, and Data Analytics**, with a minor in Design, Technology, and Society (DTS).
+I’m a tech-driven problem solver passionate about **fintech, data science, and product engineering**. Currently studying **Computer Science and Design at SUTD**, I specialize in **Data Analytics and AI**, with a minor in Design, Technology, and Society (DTS).
 
 I am also a **cadet at 42KL**, where I tackle **low-level systems programming in C/C++**, focusing on algorithmic problem-solving and project-based learning. 
 
