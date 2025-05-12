@@ -9,8 +9,7 @@ I love **building scalable, user-centric solutions** and applying **data-driven 
 ***
 
 - 🌱 Currently Learnings:  
-  - Building an **IRC server in C**
-  - Building **User-centric product for [DTI (SUTD Term 2 Subject)](https://www.sutd.edu.sg/course/03-007-design-thinking-and-innovation)**
+  - Working on **building a secure, containerized web infrastructure using Docker**
 
 
 <!--
