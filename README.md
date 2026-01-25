@@ -9,7 +9,7 @@ I love **building scalable, user-centric solutions** and applying **data-driven 
 ***
 
 - 🌱 Currently Learnings:  
-  - Working on **spatial analysis for public infrastructures (SportSG, Natural Parks) in Singapore**
+  - Mastering [SQL](https://github.com/ziqiqiiii/SQL-Zero-to-Hero)
 
 
 <!--
