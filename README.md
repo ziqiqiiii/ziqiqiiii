@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zi Qi</h1>
 
 ***
-I’m a tech-driven problem solver passionate about **data science, machine learning, artificial intelligence, and product engineering**. Currently studying **Computer Science and Design at SUTD**, I specialize in **AI and Data Analytics**.
+Currently studying **Computer Science and Design at SUTD**.
 
-I completed the 42 Core Program at 42 Kuala Lumpur, an intensive peer-learning software engineering curriculum, where I delivered 13 progressively challenging projects. These ranged from low-level C/C++ programming, memory management, algorithms, and networking, to DevOps fundamentals and full-stack web development. This experience strengthened my engineering discipline, debugging ability, and capability to learn autonomously in fast-paced, high-ownership environments.
-
-I love **building scalable, user-centric solutions** and applying **data-driven insights** to real-world problems.
 ***
 
 - 🌱 Currently Learnings:  
